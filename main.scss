@@ -1,6 +1,14 @@
 $color: royalblue;
+$font-color: #fff;
 .container {
   h1 {
     color:  $color
+  }
+  .box {
+    font-size: 50px;
+    color: $font-color;
+    width: 300px;
+    height: 100px;
+    background-color: $color;
   }
 }

@@ -1,5 +1,12 @@
 .container h1 {
   color: royalblue;
 }
+.container .box {
+  font-size: 50px;
+  color: #fff;
+  width: 300px;
+  height: 100px;
+  background-color: royalblue;
+}
 
 /*# sourceMappingURL=/main.39afc03c.css.map */
